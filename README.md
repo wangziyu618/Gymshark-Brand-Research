@@ -4,13 +4,13 @@
 
 ## Dashboard 预览
 
-[![Gymshark-Brand-Research Dashboard Preview](assets/dashboard-preview.svg)](case-study.html)
+[![Gymshark-Brand-Research Dashboard Preview](assets/dashboard-preview.svg)](https://htmlpreview.github.io/?https://github.com/wangziyu618/Gymshark-Brand-Research/blob/master/case-study.html)
 
 > 点击预览图查看完整案例页面。
 
 ## 快速预览
 
-- [决策案例页](case-study.html)：面向 HR 和业务负责人的一页式项目展示
+- [决策案例页](https://htmlpreview.github.io/?https://github.com/wangziyu618/Gymshark-Brand-Research/blob/master/case-study.html)：面向 HR 和业务负责人的一页式项目展示
 - [欧洲市场进入决策简报](report/欧洲市场进入决策简报.md)：完整证据链与验证规则
 
 ## 项目要回答的问题
