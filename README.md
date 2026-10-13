@@ -2,6 +2,12 @@
 
 > 作品集案例｜公开资料研究｜决策问题、证据等级与验证计划
 
+## Dashboard 预览
+
+[![Gymshark-Brand-Research Dashboard Preview](assets/dashboard-preview.svg)](case-study.html)
+
+> 点击预览图查看完整案例页面。
+
 ## 快速预览
 
 - [决策案例页](case-study.html)：面向 HR 和业务负责人的一页式项目展示
